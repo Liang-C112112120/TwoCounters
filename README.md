@@ -6,4 +6,4 @@
 s0 : counter1計數中(0到9)。  
 s1_wait : 準備交給counter2計數，counter1設為起始值0。  
 s1 : counter2計數中(253到79)。  
-sO_wait : 準備交給counter1計數，counter2設為起始值253。  
+s0_wait : 準備交給counter1計數，counter2設為起始值253。  
